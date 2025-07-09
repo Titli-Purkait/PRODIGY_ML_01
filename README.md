@@ -50,4 +50,4 @@ Since this is a machine learning script, there is no hosted live version.
 👩‍💻 Author
 Titli Purkait
 📫 titlipurkait268@gmail.com
-🔗 LinkedIn
+🔗 LinkedIn - ("https://www.linkedin.com/in/titlipurkait")
